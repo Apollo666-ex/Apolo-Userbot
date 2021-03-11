@@ -446,6 +446,7 @@ async def typewriter(typew):
     await typew.edit("`Asal Riau`")
     sleep(1)
     await typew.edit("`Salken Ya pler`")
+ #create by myself @lubego666
 
 CMD_HELP.update({
     "gabut":
