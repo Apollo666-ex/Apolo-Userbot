@@ -434,7 +434,7 @@ async def typewriter(typew):
     await typew.edit("`Tapi Bo'ong`")
 # Create by myself @localheart
 
-@register(outgoing=True, pattern='^.b(?: |$)(.*)')
+@register(outgoing=True, pattern='^.salken(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("`halo`")
@@ -445,15 +445,15 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`Asal Riau`")
     sleep(1)
-    await typew.edit("`Salken Ya pler`")
+    await typew.edit("`Salken Ya pler🔥`")
  #create by myself @lubego666
 
 @register(outgoing=True, pattern='^.bocah tolol (?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`punten`")
+    await typew.edit("`woii ajg`")
     sleep(1)
-    await typew.edit("`salken`")
+    await typew.edit("`nih dengerin gw babi `")
     sleep(1)
     await typew.edit("`cuma mau bilang`")
     sleep(1)
@@ -461,17 +461,20 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`emang kenal?`")
     sleep(1)
-    await typew.edit("`ngaca anjing`")
+    await typew.edit("`ngaca ya anjing`")
     sleep(1)
-    await typew.edit("`jadi bocah gausah so`")
+    await typew.edit("`jadi bocah gausah so2an `")
     sleep(1)
     await typew.edit("`sini war`")
     sleep(1)
-    await typew.edit("`jamet`")
+    await typew.edit("`jamet ngentot `")
     sleep(1)
     await typew.edit("`mental tempe`")
     sleep(1)
-    await typew.edit("`anda kontol🔥`")
+    await typew.edit("`gausa sok keras memek`")
+    sleep(1)
+    await typew.edit("`lu kontol🔥`")
+    sleep(2)
 # Create by myself @bryan
 
 CMD_HELP.update({
@@ -486,6 +489,6 @@ CMD_HELP.update({
     \nUsage: untuk jadi buaya.\
     \n\n`.terkadang`\
     \nUsage: Auk dah iseng doang."
-    \n\n`.b`\
+    \n\n`.salken`\
     \n\n`.bocah tolol`\
 })
