@@ -488,7 +488,7 @@ CMD_HELP.update({
     \n\n`.sayang`\
     \nUsage: untuk jadi buaya.\
     \n\n`.terkadang`\
-    \nUsage: Auk dah iseng doang."
+    \nUsage: Auk dah iseng doang.\
     \n\n`.salken`\
     \n\n`.bocah tolol."
 })
