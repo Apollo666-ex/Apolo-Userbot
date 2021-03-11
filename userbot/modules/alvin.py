@@ -469,7 +469,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`jamet ngentot `")
     sleep(1)
-    await typew.edit("`mental tempe`")
+    await typew.edit("`mental kertas`")
     sleep(1)
     await typew.edit("`gausa sok keras memek`")
     sleep(1)
@@ -490,5 +490,7 @@ CMD_HELP.update({
     \n\n`.terkadang`\
     \nUsage: Auk dah iseng doang.\
     \n\n`.salken`\
+    \nUsage: perkenalan.\
     \n\n`.bocah tolol."
+    \nUsage: bocah gila.\
 })
