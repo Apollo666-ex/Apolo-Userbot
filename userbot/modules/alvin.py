@@ -491,6 +491,6 @@ CMD_HELP.update({
     \nUsage: Auk dah iseng doang.\
     \n\n`.salken`\
     \nUsage: perkenalan.\
-    \n\n`.bocah tolol."
-    \nUsage: bocah gila.\
+    \n\n`.bocah tolol.\
+    \nUsage: bocah gila."
 })
