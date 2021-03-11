@@ -489,7 +489,7 @@ CMD_HELP.update({
     \nUsage: untuk jadi buaya.\
     \n\n`.terkadang`\
     \nUsage: Auk dah iseng doang.\
-    \n\n`.salken.\
+    \n\n`.self.\
     \nUsage: perkenalan.\
     \n\n`.bocah tolol.\
     \nUsage: bocah gila."
