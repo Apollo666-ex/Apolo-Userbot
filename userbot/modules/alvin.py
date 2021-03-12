@@ -448,7 +448,29 @@ async def typewriter(typew):
     await typew.edit("`𝐒𝐚𝐥𝐤𝐞𝐧 𝐲𝐚𝐚 𝐩𝐥𝐞𝐫🔥`")
  #create by myself @lubego666
 
-
+@reguster(outgoing=True, pattern='^jamet(?: |$)(.*)')
+async def typewriter(typew):
+     typew.pattern_match.group(1)
+     await typew.edit("`wooii anjing`")
+     sleep(1)
+     await typew.edit("`gw cuma mau bilang`")
+     sleep(1)
+     await typew.edit("`ga usah sok asik deh`")
+     sleep(1)
+     await typew.edit("`emang kita kenal?`")
+     sleep(1)
+     await typew.edit("`ngaca anjing`")
+     sleep(1)
+     await typew.edit("` jadi bocah gausa so2an`")
+     sleep(1)
+     await typew.edit("`sini adu bacot sama gw`")
+     sleep(1)
+     await typew.edit("`jamet ngentod`")
+     sleep(1)
+     await typew.edit("`mental kertas`")
+     sleep(1)
+     await typew.edit("`gausa sok keras memek`")
+        
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
@@ -463,4 +485,6 @@ CMD_HELP.update({
     \nUsage: Auk dah iseng doang.\
     \n\n`.self.\
     \nUsage: perkenalan.\
+    \n\n`.jamet`\
+    \nUsage: war."
 })
