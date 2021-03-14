@@ -223,7 +223,7 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f" **┗┓𝘼𝙥𝙤𝙡𝙤 𝙐𝙎𝙀𝙍𝘽𝙊𝙏┏┛** \n"
+        f" **┗┓𝘼𝙋𝙊𝙇𝙇𝙊 𝙐𝙎𝙀𝙍𝘽𝙊𝙏┏┛** \n"
         f"\n__**{LORD_TEKS_KUSTOM}**__\n"
         f"**━━━━━━━━━━━━━━━━━━━━**\n"
         f"**♛ 𝙇𝙤𝙧𝙙** \n"
@@ -262,7 +262,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**▬▬▬▬▬▬❙۩♛۩❙▬▬▬▬▬▬**\n"
-        f"     **༆ 𝘼𝙥𝙤𝙡𝙤 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 ༆** \n\n"
+        f"     **༆ 𝘼𝙥𝙤𝙡𝙡𝙤 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 ༆** \n\n"
         f"❃ **𝙇𝙤𝙧𝙙**     \n   ➥ `{DEFAULTUSER}` \n"
         f"❃ **𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙨** \n   ➥ `@{user.username}` \n"
         f"❃ **𝙏𝙚𝙡𝙚𝙩𝙝𝙤𝙣** \n   ➥ `Versi {version.__version__}` \n"
@@ -296,7 +296,7 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f"**𓆉︎ LORD USERBOT** \n"
+        f"**𓆉︎ 𝘼𝙥𝙤𝙡𝙡𝙤 𝙐𝙎𝙀𝙍𝘽𝙊𝙏** \n"
         f"┏━━━━━━━━━━━━━━━━━━━ \n"
         f"┣|• `𝘽𝙤𝙨𝙨     :`{DEFAULTUSER} \n"
         f"┣|• `𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚 :`@{user.username} \n"
