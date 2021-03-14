@@ -306,7 +306,7 @@ async def amireallyalive(alive):
         f"┣|• `𝘽𝙤𝙩 𝙑𝙚𝙧  :`{BOT_VER} \n"
         f"┣|• `𝙈𝙤𝙙𝙪𝙡𝙚𝙨  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
-        f"[𝙍𝙚𝙥𝙤](https://github.com/Apollo666-ex/Apolo-Userbot) | [𝙂𝙧𝙤𝙪𝙥 𝙎𝙪𝙥𝙥𝙤𝙧𝙩](t.me/LordUserbot_Group) | [𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢](https://www.instagram.com/iqbarsymri)\n"
+        f"[𝙍𝙚𝙥𝙤](https://github.com/Apollo666-ex/Apolo-Userbot) | [𝙂𝙧𝙤𝙪𝙥 𝙎𝙪𝙥𝙥𝙤𝙧𝙩](t.me/LordUserbot_Group) | [𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢](https://www.instagram.com/iqbarsymri)")
      if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
