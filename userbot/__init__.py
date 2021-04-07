@@ -404,7 +404,7 @@ with bot:
                 result = builder.article(
                     "Harap Gunakan .help Untuk Perintah",
                     text="{}\n\n**❃ Jumlah Modul Yang Tersedia:** `{}`\n               \n**❃ Daftar Modul Lord Userbot:** \n".format(
-                        "**♛ Apollo-Userbot**",
+                        "**༆ Apollo-Userbot**",
                         len(dugmeler),
                     ),
                     buttons=buttons,
@@ -427,7 +427,7 @@ with bot:
                                 "https://github.com/Apollo666-ex/Apollo-Userbot"),
                             custom.Button.url(
                                 "Pemilik Repo",
-                                "t.me/liualvinas")],
+                                "t.me/blitzpluto")],
                     ],
                     link_preview=False,
                 )
