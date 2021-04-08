@@ -21,7 +21,7 @@ async def koc(e):
         await typew.edit("`\n{\__/}`"
                          "`\n( • . •) take to much more`"
                          "`\n / >💕💓💓`")
-                                 "💓💓💓`"
+                                 💓💓💓`"
                                 "💓💓💓💓`"
                               "💓💓💓💓💓💓`"
                             "💓💓💓💓💓💓💓💓`"
