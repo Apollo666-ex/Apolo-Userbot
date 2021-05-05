@@ -159,7 +159,7 @@ async def bot_ver(event):
         revout = str(stdout.decode().strip()) + str(stderr.decode().strip())
 
         await event.edit(
-            "**☛**Lord-Userbot Versi:** \n "
+            "**☛**apollo-Userbot Versi:** \n "
             f"{verout}"
             "\n**☛**Revisi:**\n "
             f"{revout}"
@@ -226,9 +226,9 @@ async def amireallyalive(alive):
         f" **┗┓𝘼𝙋𝙊𝙇𝙇𝙊 𝙐𝙎𝙀𝙍𝘽𝙊𝙏┏┛** \n"
         f"\n__**{LORD_TEKS_KUSTOM}**__\n"
         f"**━━━━━━━━━━━━━━━━━━━━**\n"
-        f"**♛ 𝙇𝙤𝙧𝙙** \n"
+        f"**༆ 𝙖𝙥𝙤𝙡𝙡𝙠** \n"
         f" ➥ `{DEFAULTUSER}` \n"
-        f"**♛ 𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚** \n"
+        f"**༆ 𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚** \n"
         f" ➥ `@{user.username}` \n"
         f"╔.☆. .═════════════.✵.╗\n"
         f"┣[• `𝙏𝙚𝙡𝙚𝙩𝙝𝙤𝙣 :`Ver {version.__version__} \n"
@@ -262,15 +262,15 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**▬▬▬▬▬▬❙۩♛۩❙▬▬▬▬▬▬**\n"
-        f"     **༆ 𝘼𝙥𝙤𝙡𝙡𝙤 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 ༆** \n\n"
+        f"     **🔥 𝘼𝙥𝙤𝙡𝙡𝙤 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 🔥** \n\n"
         f"❃ **𝙇𝙤𝙧𝙙**     \n   ➥ `{DEFAULTUSER}` \n"
         f"❃ **𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙨** \n   ➥ `@{user.username}` \n"
         f"❃ **𝙏𝙚𝙡𝙚𝙩𝙝𝙤𝙣** \n   ➥ `Versi {version.__version__}` \n"
         f"❃ **𝙋𝙮𝙩𝙝𝙤𝙣**   \n   ➥ `Versi {python_version()}` \n"
         f"❃ **𝘼𝙥𝙤𝙡𝙤 𝘽𝙤𝙩**\n   ➥ `{BOT_VER}` \n"
         f"❃ **𝙈𝙤𝙙𝙪𝙡**    \n   ➥ `{len(modules)}` \n\n"
-        f"❃ **𝘼𝙥𝙤𝙡𝙤 𝙐𝙨𝙚𝙧𝙗𝙤𝙩:** [𝘼𝙥𝙤𝙡𝙤-𝙐𝙨𝙚𝙧𝙗𝙤𝙩](https://github.com/Apollo666-ex/Apolo-Userbot)\n✵ **𝙂𝙧𝙤𝙪𝙥 𝙐𝙨𝙚𝙧𝙗𝙤𝙩: **[𝙏𝙚𝙠𝙖𝙣](t.me/LordUserbot_Group)\n✵ **𝙋𝙚𝙢𝙞𝙡𝙞𝙠:** [Alvin](t.me/liualvinas)\n"
-        f"**▬▬▬▬▬▬❙۩★۩❙▬▬▬▬▬▬**")
+        f"❃ **𝘼𝙥𝙤𝙡𝙤 𝙐𝙨𝙚𝙧𝙗𝙤𝙩:** [𝘼𝙥𝙤𝙡𝙤-𝙐𝙨𝙚𝙧𝙗𝙤𝙩](https://github.com/Apollo666-ex/Apolo-Userbot)\n✵ **𝙂𝙧𝙤𝙪𝙥 𝙐𝙨𝙚𝙧𝙗𝙤𝙩: **[𝙏𝙚𝙠𝙖𝙣](t.me/LordUserbot_Group)\n✵ **𝙋𝙚𝙢𝙞𝙡𝙞𝙠:** [Alvin](t.me/ithisapollo)\n"
+        f"**▬▬▬▬▬▬❙۩★۩❙▬▬▬▬▬▬**"
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
@@ -306,7 +306,7 @@ async def amireallyalive(alive):
         f"┣|• `𝗕𝗼𝘁 𝗩𝗲𝗿 :`{BOT_VER} \n"
         f"┣|• `𝗠𝗼𝗱𝘂𝗹𝗲  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
-        f"[Repo](https://github.com/Zora24/Lord-Userbot) | [Grup Support](t.me/LordUserbot_Group) | [Owner](t.me/liualvinas)")
+        f"[Repo](https://github.com/Zora24/Lord-Userbot) | [Grup Support](t.me/LordUserbot_Group) | [Owner](t.me/ithisapollo)")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
